@@ -1,0 +1,39 @@
+{
+  "name": "create-col",
+  "version": "0.0.5",
+  "description": "A cli to create a Vue/React'Ecology project",
+  "type": "module",
+  "scripts": {
+    "build": "unbuild"
+  },
+  "bin": {
+    "create-col": "index.js"
+  },
+  "files": [
+    "src",
+    "dist",
+    "index.js"
+  ],
+  "keywords": [
+    "React",
+    "Vue",
+    "Cli",
+    "vue-router",
+    "pinia",
+    "typescript",
+    "react-redux"
+  ],
+  "devDependencies": {
+    "unbuild": "^2.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.1",
+    "inquirer": "^9.2.11",
+    "ora": "^7.0.1"
+  },
+  "author": "Sunalone",
+  "license": "MIT"
+}
