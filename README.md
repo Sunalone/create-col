@@ -1,6 +1,6 @@
 ## create-col 脚手架
 
-useage(用法) : npm create col demo
+usage(用法) : npm create col demo
 一键生成以 vite 为构建工具的 React/Vue 项目，并配置了路由和状态管理器和基本组件库。
 
 ### 目录介绍
